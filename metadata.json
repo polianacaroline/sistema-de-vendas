@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Venda de Prédios - Leads Supabase",
+  "description": "Sistema de captura e gestão de leads para venda de prédios e empreendimentos imobiliários com formulário (Nome, E-mail, Telefone) e integração com Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
